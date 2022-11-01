@@ -1,0 +1,145 @@
+<resources>
+    <string name="app_name">Profil MI 20 B</string>
+    <string name="hello_blank_fragment">Hello blank
+fragment</string>
+    <string name="this_activity">Get to Know About </string>
+    <string name="this_activity2">D3 Manajemen Informatika</string>
+            <string name="this_activity3">Follow Us!</string>
+    <string name="this_fragment"></string>
+    <string name="search">Search</string>
+    <string name="menu_1">Menu 1</string>
+    <string name="menu_2">Tentang</string>
+    <string name="search_hint">Masukkan kata</string>
+    <string name="name">Mahasiswa</string>
+    <string name="description">Deskripsi</string>
+    <string name="description2">Deskripsi 2</string>
+    <string-array name="data_name">
+        <item>Adil Jeddi Radja</item>
+        <item>Alliffianisa</item>
+        <item>Andra Riantasa Wijaya</item>
+        <item>Anggi Mustika Sari</item>
+        <item>Bunga Adifatillah</item>
+        <item>Dimas Ade Mustofa</item>
+        <item>Fadil Ainuddin</item>
+        <item>Fitrah Saputra</item>
+        <item>Gustika Barlina Mitra</item>
+        <item>Haldian</item>
+        <item>Julfiana Rizkiah Futri</item>
+        <item>Kaisar Sudewo</item>
+        <item>Kevin Kurniawan Wijaya</item>
+        <item>M. Iqbal Rivaldi</item>
+        <item>Melani Safira</item>
+        <item>Mutiara</item>
+        <item>Natasya Prameswari</item>
+        <item>Nindi Aprinda Amelita</item>
+        <item>Reza Intan Aulya</item>
+        <item>Ridho Muttaqien</item>
+        <item>Romi Pratiwi</item>
+        <item>Santa Friska Manurung</item>
+        <item>Siti Juleha Setiawati</item>
+        <item>Wahyu Pratama Putra</item>
+        <item>Yoga Anugrah</item>
+        <item>Ahmat Riski Ramadhan</item>
+        <item>Diaz Kharisma</item>
+        <item>Elsa</item>
+        <item>Mauries Irenia Putri</item>
+        <item>Yuliana Asmaul Qoini</item>
+    </string-array>
+    <string-array name="data_description">
+        <item>Instagram: @adiljeddiradja</item>
+        <item>Instagram: @alliffianisa</item>
+        <item>Instagram: @andrakembarr</item>
+        <item>Instagram: @anggimustikasari</item>
+        <item>Instagram: -</item>
+        <item>Instagram: @dimasmustofa_25</item>
+        <item>Instagram: @fadil.ain</item>
+        <item>Instagram: @fitrahaja._</item>
+        <item>Instagram: @gustikabm_namitra</item>
+        <item>Instagram: @haldianrnw</item>
+        <item>Instagram: @julfi.r</item>
+        <item>Instagram: @porto.kaisar</item>
+        <item>Instagram: @kevinkwijayaa</item>
+        <item>Instagram: @iqbalrivaldi28</item>
+        <item>Instagram: @meefire13_</item>
+        <item>Instagram: @mutiaraaaa21</item>
+        <item>Instagram: @n_tasyaawri</item>
+        <item>Instagram: @nindiiaprindaa</item>
+        <item>Instagram: @aulyareza26</item>
+        <item>Instagram: @ridhomutt_</item>
+        <item>Instagram: @rpraaaaa</item>
+        <item>Instagram: @santafriskamanurung</item>
+        <item>Instagram: @siti_sjw19</item>
+        <item>Instagram: @wahyupratamaputra27</item>
+        <item>Instagram: @yogaangrh</item>
+        <item>Instagram: @ahmat.riski_</item>
+        <item>Instagram: @diazkharisma05</item>
+        <item>Instagram: @eelsa_els</item>
+        <item>Instagram: @mrsirenia</item>
+        <item>Instagram: @yulinss_</item>
+    </string-array>
+    <string-array name="data_description2">
+        <item>20753028</item>
+        <item>20753041</item>
+        <item>20753043</item>
+        <item>20753044</item>
+        <item>20753045</item>
+        <item>20753046</item>
+        <item>20753047</item>
+        <item>20753048</item>
+        <item>20753049</item>
+        <item>20753050</item>
+        <item>20753053</item>
+        <item>20753054</item>
+        <item>20753055</item>
+        <item>20753056</item>
+        <item>20753057</item>
+        <item>20753060</item>
+        <item>20753061</item>
+        <item>20753062</item>
+        <item>20753064</item>
+        <item>20753065</item>
+        <item>20753067</item>
+        <item>20753068</item>
+        <item>20753069</item>
+        <item>20753071</item>
+        <item>20753073</item>
+        <item>20753074</item>
+        <item>20753076</item>
+        <item>20753077</item>
+        <item>20753078</item>
+        <item>20753080</item>
+    </string-array>
+    <integer-array name="data_photo">
+        <item>@drawable/unknown</item>
+        <item>@drawable/unknown</item>
+        <item>@drawable/unknown</item>
+        <item>@drawable/unknown</item>
+        <item>@drawable/bunga</item>
+        <item>@drawable/unknown</item>
+        <item>@drawable/unknown</item>
+        <item>@drawable/unknown</item>
+        <item>@drawable/gus</item>
+        <item>@drawable/unknown</item>
+        <item>@drawable/julfi</item>
+        <item>@drawable/unknown</item>
+        <item>@drawable/unknown</item>
+        <item>@drawable/unknown</item>
+        <item>@drawable/melani</item>
+        <item>@drawable/muti</item>
+        <item>@drawable/caca</item>
+        <item>@drawable/nindi</item>
+        <item>@drawable/unknown</item>
+        <item>@drawable/unknown</item>
+        <item>@drawable/unknown</item>
+        <item>@drawable/santa</item>
+        <item>@drawable/unknown</item>
+        <item>@drawable/unknown</item>
+        <item>@drawable/ganteng</item>
+        <item>@drawable/unknown</item>
+        <item>@drawable/unknown</item>
+        <item>@drawable/elsa</item>
+        <item>@drawable/unknown</item>
+        <item>@drawable/unknown</item>
+    </integer-array>
+
+</resources>
